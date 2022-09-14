@@ -195,7 +195,7 @@ Here's how.
 https://www.youtube.com/account_advanced
 ```
 
-Copy the URL, open a new tab, paste it in the [_Search_] URL address and click :mag:. Or to make it easier you can click the link below.
+Copy the URL, open a new tab, paste it in the [_Search_] URL address and click :mag: or click the link below.
 
 - **[Click Here](https://www.youtube.com/account_advanced)**
 
@@ -213,15 +213,17 @@ Yes, you can watch **YouTube live** directly to video players, browsers and anyt
 
 #### M3U8 link for YouTube live channel.
 
-- `/channel/`
+<br>
+
+`/channel/`
 ```link
 https://livestream.zazerconer.workers.dev/channel/ID.m3u8
 ```
-- `/c/`
+`/c/`
 ```link
 https://livestream2.zazerconer.workers.dev/c/NAME.m3u8
 ```
-- `/user/`
+`/user/`
 ```link
 https://livestream3.zazerconer.workers.dev/user/NAME.m3u8
 ```
