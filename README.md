@@ -213,9 +213,18 @@ Yes, you can watch **YouTube live** directly to video players, browsers and anyt
 
 #### M3U8 link for YouTube live channel.
 
-- `https://livestream.zazerconer.workers.dev/channel/ID.m3u8`
-- `https://livestream2.zazerconer.workers.dev/c/NAME.m3u8`
-- `https://livestream3.zazerconer.workers.dev/user/NAME.m3u8`
+- `/channel/`
+```link
+https://livestream.zazerconer.workers.dev/channel/ID.m3u8
+```
+- `/c/`
+```link
+https://livestream2.zazerconer.workers.dev/c/NAME.m3u8
+```
+- `/user/`
+```link
+https://livestream3.zazerconer.workers.dev/user/NAME.m3u8
+```
 
 <br>
 
