@@ -10,7 +10,7 @@ Click the logo
 
 <br>
 
-**List of M3U8 links.**
+- **List of M3U8 links.**
 
 `News, Shop TV & Entertainment`
 
@@ -79,7 +79,7 @@ https://livestream2.zazerconer.workers.dev/c/melody-malaysia.m3u8
 
 <br>
 
-**Playlist M3U**
+- **Playlist M3U**
 
 _Play on IPTV player_ :tv:
 
@@ -91,7 +91,7 @@ https://zazerconer.github.io/liveYTmalaysia/playlist/iptv/index.m3u
 
 <br>
 
-Download IPTV Player.
+#### Download IPTV Player
 
 **IPTV Smarters Pro**
 
