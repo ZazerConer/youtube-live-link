@@ -89,9 +89,9 @@ _Play on IPTV player_ :tv:
 https://zazerconer.github.io/liveYTmalaysia/playlist/iptv/index.m3u
 ```
 
-<br>
-
 ### Download IPTV Player
+
+<br>
 
 **IPTV Smarters Pro**
 
