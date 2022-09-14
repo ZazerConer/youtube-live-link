@@ -187,7 +187,7 @@ https://livestream3.zazerconer.workers.dev/user/NAME.m3u8
 
 <hr>
 
-**How to get your YouTube channel ID?**
+#### How to get your YouTube channel ID?
 
 Here's how.
 
@@ -211,7 +211,7 @@ _Question_ : Can I watch directly with this URL link?
 
 Yes, you can watch **YouTube live** directly to video players, browsers and anything else (which supports .m3u8). That means you don't need to open **YouTube** to watch the video.
 
-#### M3U8 YouTube live channel link.
+#### M3U8 link for YouTube live channel.
 
 - `https://livestream.zazerconer.workers.dev/channel/ID.m3u8`
 - `https://livestream2.zazerconer.workers.dev/c/NAME.m3u8`
@@ -227,7 +227,7 @@ Yes, you can watch **YouTube live** directly to video players, browsers and anyt
 
 <hr>
 
-<h2>Live YouTube Channel +</h2>
+<h2>Watch YouTube Live +</h2>
 
 <br>
 
