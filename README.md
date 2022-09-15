@@ -339,6 +339,6 @@ https://livestream.zazerconer.workers.dev/channel/UClJ1NXIsdoVyfxWg3aLYrsA.m3u8
 
 </details>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> © 𝟚𝟘𝟚𝟚 ℤ𝕒𝕫𝕖𝕣ℂ𝕠𝕟𝕖𝕣'𝕤 - 𝕃𝕚𝕧𝕖 𝕐𝕠𝕦𝕋𝕦𝕓𝕖 𝕄𝕒𝕝𝕒𝕪𝕤𝕚𝕒</div>
