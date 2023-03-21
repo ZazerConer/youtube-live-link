@@ -1,14 +1,14 @@
 #EXTM3U
 
-#### Live YouTube Malaysia ################################################################
-#											  #
-#  Github >> https://github.com/ZazerConer/liveYTmalaysia 	                          #
-#			                                                                  #
-#  Web >> https://zazerconer.github.io/liveYTmalaysia 	                   		  #
-#				     				                          #
-#  Playlist M3U >> https://zazerconer.github.io/liveYTmalaysia/playlist/iptv/index.m3u    #
-#										          #
-################################################################## © 2022 ZazerConer's ####
+#### Live YouTube Malaysia © 2023 ZazerConer's ######################################
+#											  										#
+#  Github >> https://github.com/ZazerConer/liveYTmalaysia							#
+#																					#
+#  Webtv >> https://zazerconer.github.io/liveYTmalaysia								#
+#																					#
+#  M3U link >> https://zazerconer.github.io/liveYTmalaysia/playlist/iptv/index.m3u  #
+#  																					#
+#####################################################################################
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/FNZqsNF.jpeg", Astro Awani
 https://livestream2.zazerconer.workers.dev/c/astroawani.m3u8
@@ -18,9 +18,6 @@ https://livestream2.zazerconer.workers.dev/c/saluranberitartm123.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/tqcm0x0.jpg", Bernama TV
 https://livestream.zazerconer.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/5Z5Ybx5.jpeg", Suke TV 
-https://livestream.zazerconer.workers.dev/channel/UCzh6SMSWad2934rgoq_cNkg.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/YAHGdWg.jpg", Era FM
 https://livestream2.zazerconer.workers.dev/c/eradotje.m3u8
