@@ -6,13 +6,13 @@ Click the logo
 <a href="https://www.youtube.com"><img align="right" src="https://i.imgur.com/PsDtnzZ.png" width="50px" height="35px"></a>
 <h1 align="center">YouTube URL with M3U8 link</h1>
 
-<h5 align="right">Live YT Malaysia M3U8</h5>
+<div align="right"><strong>Live YT Malaysia M3U8</strong></div>
 
 <br>
 
-- **List of M3U8 links.**
+### List of M3U8 links
 
-`News, Shop TV & Entertainment`
+`News`
 
 ```text
 Astro AWANI
@@ -23,9 +23,6 @@ https://livestream2.zazerconer.workers.dev/c/saluranberitartm123.m3u8
 
 BERNAMA TV
 https://livestream.zazerconer.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-
-SUKE TV
-https://livestream.zazerconer.workers.dev/channel/UCzh6SMSWad2934rgoq_cNkg.m3u8
 ```
 
 `Radio`
@@ -79,7 +76,9 @@ https://livestream2.zazerconer.workers.dev/c/melody-malaysia.m3u8
 
 <br>
 
-- **Playlist M3U**
+### M3U Playlist
+
+<br>
 
 _Play on IPTV player_ :tv:
 
@@ -88,6 +87,8 @@ _Play on IPTV player_ :tv:
 ```url
 https://zazerconer.github.io/liveYTmalaysia/playlist/iptv/index.m3u
 ```
+
+<br>
 
 ### Download IPTV Player
 
@@ -99,13 +100,13 @@ Supports on: Android - Smart TV - iOS - MAC - Windows
 
 <br>
 
-<a href="https://play.google.com/store/apps/details?id=com.nst.smartersplayer"><img src="https://i.imgur.com/X5hWeEU.png" width="280px" height="65px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.nst.smartersplayer" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/X5hWeEU.png" width="280px" height="65px"></a>
 
-<a href="https://apps.apple.com/in/app/smarters-player-lite/id1628995509"><img src="https://i.imgur.com/GKlHXBG.png" width="280px" height="65px"></a>
+<a href="https://apps.apple.com/in/app/smarters-player-lite/id1628995509" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/GKlHXBG.png" width="280px" height="65px"></a>
 
-<a href="https://www.iptvsmarters.com/download/?download=mac"><img src="https://i.imgur.com/omYFTEZ.png" width="280px" height="65px"></a>
+<a href="https://www.iptvsmarters.com/download/?download=mac" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/omYFTEZ.png" width="280px" height="65px"></a>
 
-<a href="https://www.iptvsmarters.com/download/?download=windows_app"><img src="https://i.imgur.com/XRGsfQ5.png" width="280px" height="65px"></a>
+<a href="https://www.iptvsmarters.com/download/?download=windows_app" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/XRGsfQ5.png" width="280px" height="65px"></a>
 
 <br>
 
@@ -115,7 +116,7 @@ For **Smart TV** _(Samsung/LG)_ and **Firestick**, you can go to the Website.
 <br>
 <hr>
 
-<h2>Add your own YouTube live with a URL link</h2>
+### Add YouTube live url with M3U8 link
 
 <br>
 
@@ -187,21 +188,9 @@ https://livestream3.zazerconer.workers.dev/user/NAME.m3u8
 
 <hr>
 
-#### How to get your YouTube channel ID?
+#### How to get YouTube channel ID?
 
-Here's how.
-
-```url
-https://www.youtube.com/account_advanced
-```
-
-Copy the URL, open a new tab, paste it in the [_Search_] URL address and click :mag: or click the link below.
-
-- **[Click Here](https://www.youtube.com/account_advanced)**
-
-<br>
-
-> Note: Make sure you login to your YouTube account first. Otherwise, you won't be able to see your YouTube channel **ID**.
+- **[Go here](https://commentpicker.com/youtube-channel-id.php)**
 
 <br>
 
@@ -209,9 +198,11 @@ It's very easy and simple, you just need to add the channel **ID** or **NAME** t
 
 _Question_ : Can I watch directly with this URL link? 
 
-Yes, you can watch **YouTube live** directly to video players, browsers and anything else (which supports .m3u8). That means you don't need to open **YouTube** to watch the video.
+Yes, you can watch **YouTube live** directly to video players, browsers and anything else (which supports .m3u8). This means you don't need to open **YouTube** to watch the video.
 
-#### M3U8 link for YouTube live channel.
+<br>
+
+#### M3U8 link for YouTube live URL
 
 <br>
 
@@ -231,10 +222,6 @@ https://livestream3.zazerconer.workers.dev/user/NAME.m3u8
 <br>
 
 > Note: This URL link only works if the YouTube channel is LIVE. 
-
-<br>
-
-- Any issues with URL links or for other reasons, please report in **[Issues](https://github.com/ZazerConer/liveYTmalaysia/issues)**.
 
 <br>
 <hr>
@@ -341,4 +328,4 @@ https://livestream.zazerconer.workers.dev/channel/UClJ1NXIsdoVyfxWg3aLYrsA.m3u8
 
 <br><br><br><br><br>
 
-<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> © 𝟚𝟘𝟚𝟚 ℤ𝕒𝕫𝕖𝕣ℂ𝕠𝕟𝕖𝕣'𝕤 - 𝕃𝕚𝕧𝕖 𝕐𝕠𝕦𝕋𝕦𝕓𝕖 𝕄𝕒𝕝𝕒𝕪𝕤𝕚𝕒</div>
+<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> <strong>© 2023 ZazerConer's - Live YouTube Malaysia</div>
