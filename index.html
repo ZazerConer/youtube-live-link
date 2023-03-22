@@ -10,9 +10,8 @@
   <meta name="robots" content="index, follow">
   <meta name="language" content="English">
   <meta name="author" content="ZazerConer's">
-  <link rel="canonical" href="https://github.com/ZazerConer/liveYTmalaysia">
+  <link rel="canonical" href="https://zazerconer.github.io/liveYTmalaysia">
   <link rel="icon" href="https://i.imgur.com/BpgZkP1.png" type="image/png">
-  <link rel="stylesheet" href="src/css/ltm.min.css">
   <title>Live YouTube Malaysia</title>
   
   <!-- Bootstrap 5.3.0 -->
@@ -24,6 +23,11 @@
   <!-- Instant page (loads faster) -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.1/instantpage.min.js" type="module" integrity="sha512-caMAESeG5mlQ2CY/HMaLloKyz46yN2IlqBxXsoNOZusid57lNW6jRQeoR1JIC86YWwE1nEylOkc914tDHhUqWA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
  
+ <style>
+ /* Live YouTube Malaysia - CSS © 2023 ZazerConer's */
+ *{margin:0;padding:0;box-sizing:border-box;outline:none;border:0;cursor:none;user-select:none;-webkit-user-select:none;-webkit-tap-highlight-color:transparent}body{background:#191919;color:#fff;width:100vw;height:100vh;margin:auto;padding:0;text-align:center;font-family:Verdana,Arial,sans-serif}header{position:fixed;top:0;left:0;right:0;margin:auto;padding:15px 20px;background:#111;z-index:1}header span{float:left;margin-top:10px;margin-left:10px;font-size:larger;font-weight:700}header a{float:right;color:#fff;margin-right:10px;transition:.2s}header a:active{transform:scale(0.9);opacity:.7}footer{position:fixed;bottom:0;left:0;right:0;margin:auto;padding:15px 0;background:#111;transition:.2s;z-index:1}footer img{width:50px}footer img:active{transform:scale(0.9);opacity:.7}#player{position:fixed;top:0;left:0;right:0;bottom:0;margin:auto;background:#000;transition:.3s;overflow:hidden;z-index:15}#video{position:absolute;top:0;left:0;right:0;bottom:0;margin:auto;width:100vw;height:100vh;object-fit:contain;z-index:8}video::-webkit-media-controls-panel{background:transparent;padding-right:15px;padding-bottom:10px}video::-webkit-media-controls-current-time-display{display:none!important}video::-webkit-media-controls-time-remaining-display{display:none!important}video::-webkit-media-controls-timeline{display:none!important}.error{position:absolute;top:0;left:0;right:0;bottom:0;display:grid;align-items:center;justify-content:center;background:transparent}.error span{display:none;width:100vw;padding:40px 15px;color:#afafaf;background:#000;z-index:10}.btn{position:fixed;top:1.5rem;right:2rem;color:#fff;font-size:x-large;padding:5px;border-radius:4px;background:transparent;transition:.2s;z-index:20}.btn:active{transform:scale(0.9);border:1px solid #fff}.title{position:fixed;top:1rem;left:1.5rem;color:#fff;font-size:large;font-weight:700;transition:.2s;z-index:20}.list{position:absolute;top:0;left:0;right:0;bottom:0;width:100vw;margin:auto;padding:130px 0;overflow:auto;z-index:0}.click{width:35vw;margin:5px;border-radius:8px;transition:.3s}.click:active{transform:scale(0.9);opacity:.7}@media screen and (min-width: 720px){.click{width:25vw;margin:15px}}@media screen and (max-width: 480px){footer img{float:left;margin-left:15px;width:40px}}
+ </style>
+
 </head>
 <body data-instant-allow-query-string>
  
@@ -82,8 +86,11 @@
     <img src="https://i.imgur.com/BpgZkP1.png" alt="youtubelive">
    </a>
   </footer>
-  
-  <script type="src/js/ltm.min.js"></script>
-  
+
+<script>
+/* Live YouTube Malaysia - JS © 2023 ZazerConer's */
+const video=document.getElementById("video"),title=document.getElementById("title"),close=document.getElementById("close"),display=document.getElementById("player"),msg=document.getElementById("error-msg");$(document).ready((function(){var e=$(video),r=$(title);$(e).attr("src",$("img.click:first").attr("data-src")),$("img.click:first").addClass("playing"),$(r).html($("img.click:first").attr("data-title")),$("img.click:first").addClass("addtitle"),$("img.click").on("click",(function(t){t.preventDefault(),$(e).attr("src",$(this).attr("data-src")),$(".list button").removeClass("playing"),$(this).addClass("playing"),$(r).html($(this).attr("data-title")),$(".list button").removeClass("addtitle"),$(this).addClass("addtitle"),$(e).trigger("play"),$(display).show(),$(msg).hide()}))})),$(close).click((function(){$(display).hide(100),$(video).trigger("pause")}));const error=$(video);error.on("error",(function(e){$(msg).show(),$(msg).html("<b style='color:#F44336;'>&#9888;&nbsp;ERROR PLAYING VIDEO!</b><br><br>YouTube channel is currently not LIVE<br><br>Please check back later."),e.onerror=null}));const awani="https://livestream2.zazerconer.workers.dev/c/astroawani.m3u8",berita="https://livestream2.zazerconer.workers.dev/c/saluranberitartm123.m3u8",bernama="https://livestream.zazerconer.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8",era="https://livestream2.zazerconer.workers.dev/c/eradotje.m3u8",sinar="https://livestream.zazerconer.workers.dev/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8",suria="https://livestream2.zazerconer.workers.dev/c/suriatv.m3u8",hot="https://livestream2.zazerconer.workers.dev/c/hotfm976.m3u8",buletin="https://livestream2.zazerconer.workers.dev/c/buletinfm.m3u8",gegar="https://livestream2.zazerconer.workers.dev/c/gegarmy.m3u8",molek="https://livestream2.zazerconer.workers.dev/c/molektv.m3u8",zayan="https://livestream2.zazerconer.workers.dev/c/zayanmy.m3u8",hitz="https://livestream2.zazerconer.workers.dev/c/hitzdotmy.m3u8",fly="https://livestream2.zazerconer.workers.dev/c/flytv958.m3u8",mix="https://livestream2.zazerconer.workers.dev/c/mix_my.m3u8",lite="https://livestream.zazerconer.workers.dev/channel/UCzDknC7OXx6l9eEsgugjU2w.m3u8",efm="https://livestream2.zazerconer.workers.dev/c/8fm881.m3u8",my="https://livestream2.zazerconer.workers.dev/c/my-malaysia.m3u8",melody="https://livestream2.zazerconer.workers.dev/c/melody-malaysia.m3u8",errMsg="channel is currently not live.";$.get(awani,(function(){})).fail((function(){console.error("[ERROR]! ASTRO AWANI "+errMsg)})),$.get(berita,(function(){})).fail((function(){console.error("[ERROR]! BERITA RTM "+errMsg)})),$.get(bernama,(function(){})).fail((function(){console.error("[ERROR]! BERNAMA TV "+errMsg)})),$.get(era,(function(){})).fail((function(){console.error("[ERROR]! ERA "+errMsg)})),$.get(sinar,(function(){})).fail((function(){console.error("[ERROR]! SINAR "+errMsg)})),$.get(suria,(function(){})).fail((function(){console.error("[ERROR]! SURIA TV "+errMsg)})),$.get(hot,(function(){})).fail((function(){console.error("[ERROR]! HOT TV "+errMsg)})),$.get(buletin,(function(){})).fail((function(){console.error("[ERROR]! BULETIN TV "+errMsg)})),$.get(gegar,(function(){})).fail((function(){console.error("[ERROR]! GEGAR "+errMsg)})),$.get(molek,(function(){})).fail((function(){console.error("[ERROR]! MOLEK TV"+errMsg)})),$.get(zayan,(function(){})).fail((function(){console.error("[ERROR]! ZAYAN MY"+errMsg)})),$.get(hitz,(function(){})).fail((function(){console.error("[ERROR]! HITZ "+errMsg)})),$.get(fly,(function(){})).fail((function(){console.error("[ERROR]! FLY TV "+errMsg)})),$.get(mix,(function(){})).fail((function(){console.error("[ERROR]! MIX "+errMsg)})),$.get(lite,(function(){})).fail((function(){console.error("[ERROR]! LITE "+errMsg)})),$.get(efm,(function(){})).fail((function(){console.error("[ERROR]! 8FM881 "+errMsg)})),$.get(my,(function(){})).fail((function(){console.error("[ERROR]! MY好玩 "+errMsg)})),$.get(melody,(function(){})).fail((function(){console.error("[ERROR]! MELODY "+errMsg)}));
+</script>
+
 </body>
 </html>
