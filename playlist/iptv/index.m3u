@@ -62,3 +62,6 @@ https://livestream2.zazerconer.workers.dev/c/my-malaysia.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/4cydH6m.jpeg", MELODY
 https://livestream2.zazerconer.workers.dev/c/melody-malaysia.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/Iz6Etvw.jpeg", 988
+https://livestream3.zazerconer.workers.dev/user/988ziduodi.m3u8
