@@ -72,6 +72,9 @@ https://livestream2.zazerconer.workers.dev/c/my-malaysia.m3u8
 
 MELODY
 https://livestream2.zazerconer.workers.dev/c/melody-malaysia.m3u8
+
+988
+https://livestream3.zazerconer.workers.dev/user/988ziduodi.m3u8
 ```
 
 <br>
