@@ -19,10 +19,10 @@ Astro AWANI
 https://livestream2.zazerconer.workers.dev/c/astroawani.m3u8
 
 Berita RTM
-https://livestream2.zazerconer.workers.dev/c/saluranberitartm123.m3u8
+https://livestream2.zazerconer.workers.dev/c/beritartmbes.m3u8
 
 BERNAMA TV
-https://livestream.zazerconer.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+https://livestream4.zazerconer.workers.dev/live/34pdxUincPw.m3u8
 ```
 
 `Radio`
@@ -32,7 +32,7 @@ ERA
 https://livestream2.zazerconer.workers.dev/c/eradotje.m3u8
 
 SINAR
-https://livestream.zazerconer.workers.dev/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
+https://livestream2.zazerconer.workers.dev/c/sinar_my.m3u8
 
 SuriaTV
 https://livestream2.zazerconer.workers.dev/c/suriatv.m3u8
@@ -62,7 +62,7 @@ MIX
 https://livestream2.zazerconer.workers.dev/c/mix_my.m3u8
 
 LITE
-https://livestream.zazerconer.workers.dev/channel/UCzDknC7OXx6l9eEsgugjU2w.m3u8
+https://livestream2.zazerconer.workers.dev/c/lite-malaysia.m3u8
 
 8FM881
 https://livestream2.zazerconer.workers.dev/c/8fm881.m3u8
@@ -103,7 +103,7 @@ Supports on: Android - Smart TV - iOS - MAC - Windows
 
 <br>
 
-<a href="https://play.google.com/store/apps/details?id=com.nst.smartersplayer" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/X5hWeEU.png" width="280px" height="65px"></a>
+<a href="https://www.iptvsmarters.com/smarters.apk" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/X5hWeEU.png" width="280px" height="65px"></a>
 
 <a href="https://apps.apple.com/in/app/smarters-player-lite/id1628995509" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/GKlHXBG.png" width="280px" height="65px"></a>
 
@@ -119,112 +119,178 @@ For **Smart TV** _(Samsung/LG)_ and **Firestick**, you can go to the Website.
 <br>
 <hr>
 
-### Add YouTube live url with M3U8 link
+### Add YouTube live URL with M3U8 link
 
 <br>
 
-YouTube channel URL description and how to use it.
+_YouTube channel URL._
 
 <br>
 
-1. **Channel URL (ID-based)**
+- **Channel URL (ID-based)**
 
-Example : 
+Example: 
 
 `youtube.com/channel/UCUZHFZ9jIKrLroW8LcyJEQQ`
 
 This example is a standard URL that YouTube channels use. It uses your unique channel **ID**, which is the numbers and letters at the end of the URL.
 
-Usage :
+Usage:
 
 `Livestream.zazerconer.workers.dev/channel/...`
 
-Add channel `ID` :
+<br>
+
+Add channel: `id`
 
 ```url
-https://livestream.zazerconer.workers.dev/channel/ID.m3u8
+https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
 ```
 
 <br>
+<br>
 
-2. **Custom URL**
+- **Custom URL**
 
-Example :
+Example:
 
 `youtube.com/c/YouTubeCreators`
 
 A [custom URL](https://support.google.com/youtube/answer/2657968) is a shorter, easy-to-remember URL that you can share with your audience. These custom URLs can be based on your current display **name** or your legacy **username** or your **linked** and verified web domain.
 
-Usage :
+Usage:
 
 `Livestream2.zazerconer.workers.dev/c/...`
 
-Add channel `NAME` :
+<br>
+
+Add channel: `custom URL name`
 
 ```url
-https://livestream2.zazerconer.workers.dev/c/NAME.m3u8
+https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
 ```
 
 <br>
+<br>
 
-3. **Legacy username URL**
+- **Legacy username URL**
 
-Example : 
+Example: 
 
 `youtube.com/user/YouTube`
 
 Depending on when your channel was created, it may have a **username**. Usernames are no longer required for channels today, but you can still use this URL to direct viewers to your channel. This also includes if your channel name has changed since you chose your **username**. Existing usernames can't be changed.
 
-Usage :
+Usage:
 
 `Livestream3.zazerconer.workers.dev/user/...`
 
-Add channel `NAME` :
+<br>
+
+Add channel: `username`
 
 ```url
-https://livestream3.zazerconer.workers.dev/user/NAME.m3u8
+https://livestream3.zazerconer.workers.dev/user/username.m3u8
 ```
 
 <br>
 
-[YouTube Help](https://support.google.com/youtube/answer/6180214?hl=en)
-
-<hr>
-
 #### How to get YouTube channel ID?
 
-- **[Go here](https://commentpicker.com/youtube-channel-id.php)**
+You can get the channel ID **[HERE](https://commentpicker.com/youtube-channel-id.php)**
+
+<br>
+<hr>
+
+### Get YouTube URL of live video 
 
 <br>
 
-It's very easy and simple, you just need to add the channel **ID** or **NAME** to the URL link and this link will get your **YouTube live**. 
+- What if a YouTube channel has more than one live video and how to get the _specific_ video URL instead of the channel URL? 
+
+<br>
+
+**Follow these steps:**
+
+<br>
+
+1. Go to the live YT video you want and play it.
+
+<br>
+
+2. Click the **Share** button.
+<div align="center"><img src="https://iili.io/H4M4hSs.webp" width="300px" alt="YTvideoShare"></div>
+
+<br>
+<br>
+
+3. If the share popup appears, get the video **ID** from the URL like the image below.
+<div align="center"><img src="https://iili.io/H4M4wHG.webp" width="300px" alt="YTvideoID"></div>
+
+<br>
+<br>
+
+4. Add a video **ID** to this link.
+```url
+https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
+```
+
+<br>
+
+**Example:**
+
+_[https://livestream4.zazerconer.workers.dev/live/0vGEr_McaHM.m3u8](https://livestream4.zazerconer.workers.dev/live/0vGEr_McaHM.m3u8)_
+
+<br>
+<br>
+
+**Please note:** This m3u8 link only supports **Live** videos but if you add a non-live video **ID** to the link, it won't work.
+
+<br>
+
+**URL difference:** `/live/` 
+
+- **Live** `https://www.youtube.com/live/video-id`
+
+- **Non-live** `https://www.youtube.com/video-id`
+
+<br>
+<hr>
+<br>
+
+It's very easy and simple, you just need to add the channel/video **ID** or **NAME** to the URL link and this link will get your **YouTube live**. 
 
 _Question_ : Can I watch directly with this URL link? 
 
 Yes, you can watch **YouTube live** directly to video players, browsers and anything else (which supports .m3u8). This means you don't need to open **YouTube** to watch the video.
 
 <br>
+<hr>
 
-#### M3U8 link for YouTube live URL
+### M3U8 link for YouTube live URL
 
 <br>
 
 `/channel/`
 ```link
-https://livestream.zazerconer.workers.dev/channel/ID.m3u8
+https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
 ```
 `/c/`
 ```link
-https://livestream2.zazerconer.workers.dev/c/NAME.m3u8
+https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
 ```
 `/user/`
 ```link
-https://livestream3.zazerconer.workers.dev/user/NAME.m3u8
+https://livestream3.zazerconer.workers.dev/user/username.m3u8
+```
+`/live/`
+```link
+https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 ```
 
 <br>
 
-> Note: This URL link only works if the YouTube channel is LIVE. 
+**Note:** This URL link only works if the YouTube channel is LIVE. 
 
 <br>
 <hr>
@@ -331,4 +397,4 @@ https://livestream.zazerconer.workers.dev/channel/UClJ1NXIsdoVyfxWg3aLYrsA.m3u8
 
 <br><br><br><br><br>
 
-<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> <strong>© 2023 ZazerConer's - Live YouTube Malaysia</div>
+<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> <strong>© 2023 ZazerConer's - Live YouTube Malaysia</strong></div>
