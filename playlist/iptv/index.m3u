@@ -13,16 +13,16 @@
 https://livestream2.zazerconer.workers.dev/c/astroawani.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/Lz7fZuN.jpg", Berita RTM
-https://livestream2.zazerconer.workers.dev/c/saluranberitartm123.m3u8
+https://livestream2.zazerconer.workers.dev/c/beritartmbes.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/tqcm0x0.jpg", Bernama TV
-https://livestream.zazerconer.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+https://livestream4.zazerconer.workers.dev/live/34pdxUincPw.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/YAHGdWg.jpg", Era FM
 https://livestream2.zazerconer.workers.dev/c/eradotje.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/LuFPWKV.jpg", Sinar FM
-https://livestream.zazerconer.workers.dev/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
+https://livestream2.zazerconer.workers.dev/c/sinar_my.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/0P9ZEIs.jpg", Suria FM
 https://livestream2.zazerconer.workers.dev/c/suriatv.m3u8
@@ -52,7 +52,7 @@ https://livestream2.zazerconer.workers.dev/c/flytv958.m3u8
 https://livestream2.zazerconer.workers.dev/c/mix_my.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/rEZuR0q.jpeg", LITE
-https://livestream.zazerconer.workers.dev/channel/UCzDknC7OXx6l9eEsgugjU2w.m3u8
+https://livestream2.zazerconer.workers.dev/c/lite-malaysia.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/fJdObit.jpeg", 8FM
 https://livestream2.zazerconer.workers.dev/c/8fm881.m3u8
