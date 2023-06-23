@@ -294,55 +294,64 @@ If it doesn't work please test and use any of the **M3U8 links** shown above.
 <br>
 <hr>
 <br>
+<br>
 
-It's very easy and simple, you just need to add the channel/video **ID** or **NAME** to the URL link and this link will get your **YouTube live**. 
+- It's very easy and simple, you just need to add the channel/video **ID** or **NAME** to the URL link and this link will get your **YouTube live**. 
 
-_Question_ : Can I watch directly with this URL link? 
+   - _**Question:**_ Can I watch directly with this URL link? 
 
-Yes, you can watch **YouTube live** directly to video players, browsers and anything else (which supports .m3u8). This means you don't need to open **YouTube** to watch the video.
+- Yes, you can watch **YouTube live** directly to video players, browsers and anything else (which supports .m3u8). This means you don't need to open **YouTube** to watch the video.
 
+<br>
 <br>
 <hr>
 
-### M3U8 link for YouTube live URL
+### M3U8 direct link for YouTube Live channel
 
 <br>
+<br>
 
-`/channel/`
+**Channel ID:** `/channel/`
 ```link
 https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
 ```
-`/c/`
+
+**Custom Name:** `/c/`
 ```link
 https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
 ```
-`/user/`
+
+**Username:** `/user/`
 ```link
 https://livestream3.zazerconer.workers.dev/user/username.m3u8
 ```
-`/live/`
+
+**Video ID:** `/live/`
 ```link
 https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 ```
-`/@`
+
+**Handle Name:** `/@`
 ```link
-https://livestream4.zazerconer.workers.dev/@handle-name.m3u8
+https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
 ```
 
 <br>
 <br>
+<br>
 
-**Note:** This URL link only works if the YouTube channel is LIVE. 
+**Note:** This **M3U8 Link** only works if the **YouTube** channel is **LIVE**. 
 
+<br>
 <br>
 <hr>
 
-<h2>Watch YouTube Live +</h2>
+## Watch YouTube Live +
 
 <br>
 
 <details>
-<summary>SHOW</summary>
+<summary><b>SHOW</b></summary>
 
 <br>
 
