@@ -282,7 +282,7 @@ A **[handle URL](https://support.google.com/youtube/answer/11585688)** is create
 **Add channel:** `handle-name`
 
 ```url
-ytlive.zazerconer.workers.dev/@handle-name.m3u8
+https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
 ```
 
 <br>
