@@ -123,74 +123,30 @@ For **Smart TV** _(Samsung/LG)_ and **Firestick**, you can go to the Website.
 
 <br>
 
-_YouTube channel URL._
+_**YouTube channel UR**_
 
 <br>
 
-- **Channel URL (ID-based)**
+#### Channel URL (ID-based)
 
-Example: 
+<br>
+
+**Example:**
 
 `youtube.com/channel/UCUZHFZ9jIKrLroW8LcyJEQQ`
 
 This example is a standard URL that YouTube channels use. It uses your unique channel **ID**, which is the numbers and letters at the end of the URL.
 
-Usage:
+**Usage:**
 
 `Livestream.zazerconer.workers.dev/channel/...`
 
 <br>
 
-Add channel: `id`
+**Add channel:** `id`
 
 ```url
 https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
-```
-
-<br>
-<br>
-
-- **Custom URL**
-
-Example:
-
-`youtube.com/c/YouTubeCreators`
-
-A [custom URL](https://support.google.com/youtube/answer/2657968) is a shorter, easy-to-remember URL that you can share with your audience. These custom URLs can be based on your current display **name** or your legacy **username** or your **linked** and verified web domain.
-
-Usage:
-
-`Livestream2.zazerconer.workers.dev/c/...`
-
-<br>
-
-Add channel: `custom URL name`
-
-```url
-https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
-```
-
-<br>
-<br>
-
-- **Legacy username URL**
-
-Example: 
-
-`youtube.com/user/YouTube`
-
-Depending on when your channel was created, it may have a **username**. Usernames are no longer required for channels today, but you can still use this URL to direct viewers to your channel. This also includes if your channel name has changed since you chose your **username**. Existing usernames can't be changed.
-
-Usage:
-
-`Livestream3.zazerconer.workers.dev/user/...`
-
-<br>
-
-Add channel: `username`
-
-```url
-https://livestream3.zazerconer.workers.dev/user/username.m3u8
 ```
 
 <br>
@@ -202,11 +158,61 @@ You can get the channel ID **[HERE](https://commentpicker.com/youtube-channel-id
 <br>
 <hr>
 
+#### Custom URL
+
+<br>
+
+**Example:**
+
+`youtube.com/c/YouTubeCreators`
+
+A [custom URL](https://support.google.com/youtube/answer/2657968) is a shorter, easy-to-remember URL that you can share with your audience. These custom URLs can be based on your current display **name** or your legacy **username** or your **linked** and verified web domain.
+
+**Usage:**
+
+`Livestream2.zazerconer.workers.dev/c/...`
+
+<br>
+
+**Add channel:** `custom URL name`
+
+```url
+https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
+```
+
+<br>
+<hr>
+
+#### Legacy Username URL
+
+<br>
+
+**Example:**
+
+`youtube.com/user/YouTube`
+
+Depending on when your channel was created, it may have a **username**. Usernames are no longer required for channels today, but you can still use this URL to direct viewers to your channel. This also includes if your channel name has changed since you chose your **username**. Existing usernames can't be changed.
+
+**Usage:**
+
+`Livestream3.zazerconer.workers.dev/user/...`
+
+<br>
+
+**Add channel:** `username`
+
+```url
+https://livestream3.zazerconer.workers.dev/user/username.m3u8
+```
+
+<br>
+<hr>
+
 ### Get YouTube URL of live video 
 
 <br>
 
-- What if a YouTube channel has more than one live video and how to get the _specific_ video URL instead of the channel URL? 
+- What if a YouTube channel has more than one **Live** video and how to get the _specific_ **video URL** instead of the **channel URL**? 
 
 <br>
 
@@ -214,7 +220,7 @@ You can get the channel ID **[HERE](https://commentpicker.com/youtube-channel-id
 
 <br>
 
-1. Go to the live YT video you want and play it.
+1. Go to the live **YT** video you want and play it.
 
 <br>
 
@@ -239,7 +245,7 @@ https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 
 **Example:**
 
-_[https://livestream4.zazerconer.workers.dev/live/0vGEr_McaHM.m3u8](https://livestream4.zazerconer.workers.dev/live/0vGEr_McaHM.m3u8)_
+`https://livestream4.zazerconer.workers.dev/live/0vGEr_McaHM.m3u8`
 
 <br>
 <br>
@@ -253,6 +259,37 @@ _[https://livestream4.zazerconer.workers.dev/live/0vGEr_McaHM.m3u8](https://live
 - **Live** `https://www.youtube.com/live/video-id`
 
 - **Non-live** `https://www.youtube.com/video-id`
+
+<br>
+<hr>
+
+### YouTube Handle
+
+<br>
+
+**Example:**
+
+`youtube.com/@youtubecreators`
+
+A **[handle URL](https://support.google.com/youtube/answer/11585688)** is created automatically whenever you choose or change your **handle** as a channel owner. The end of the URL starts with an **“@”** symbol and includes your chosen **handle**. Any custom **URL**s you may already have will continue to work.
+
+**Usage:**
+
+`ytlive.zazerconer.workers.dev/@...`
+
+<br>
+
+**Add channel:** `handle-name`
+
+```url
+ytlive.zazerconer.workers.dev/@handle-name.m3u8
+```
+
+<br>
+
+**Note:** This YouTube **handle** is not fully used by all users for YouTube channels. 
+
+If it doesn't work please test and use any of the **M3U8 links** shown above.
 
 <br>
 <hr>
@@ -287,7 +324,12 @@ https://livestream3.zazerconer.workers.dev/user/username.m3u8
 ```link
 https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 ```
+`/@`
+```link
+https://livestream4.zazerconer.workers.dev/@handle-name.m3u8
+```
 
+<br>
 <br>
 
 **Note:** This URL link only works if the YouTube channel is LIVE. 
