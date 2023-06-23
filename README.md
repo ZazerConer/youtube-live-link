@@ -123,11 +123,11 @@ For **Smart TV** _(Samsung/LG)_ and **Firestick**, you can go to the Website.
 
 <br>
 
-_**YouTube channel UR**_
+_**YouTube channel URL**_
 
 <br>
 
-#### Channel URL (ID-based)
+### Channel URL (ID-based)
 
 <br>
 
@@ -158,7 +158,7 @@ You can get the channel ID **[HERE](https://commentpicker.com/youtube-channel-id
 <br>
 <hr>
 
-#### Custom URL
+### Custom URL
 
 <br>
 
@@ -183,7 +183,7 @@ https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
 <br>
 <hr>
 
-#### Legacy Username URL
+### Legacy Username URL
 
 <br>
 
