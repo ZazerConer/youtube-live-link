@@ -7,6 +7,7 @@
 #  Webtv >> https://zazerconer.github.io/liveYTmalaysia                             #
 #                                                                                   #
 #  M3U link >> https://zazerconer.github.io/liveYTmalaysia/playlist/iptv/index.m3u  #
+#                                                                                   #
 #####################################################################################
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/FNZqsNF.jpeg", Astro Awani
@@ -41,6 +42,9 @@ https://livestream2.zazerconer.workers.dev/c/molektv.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/bE00jhj.jpeg", ZAYAN
 https://livestream2.zazerconer.workers.dev/c/zayanmy.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/npMaT6W.png", 35's TV
+https://livestream2.zazerconer.workers.dev/c/35stv.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/2rYWYWO.jpeg", Hitz FM
 https://livestream2.zazerconer.workers.dev/c/hitzdotmy.m3u8
