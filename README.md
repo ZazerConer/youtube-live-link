@@ -52,6 +52,9 @@ https://livestream2.zazerconer.workers.dev/c/molektv.m3u8
 Zayan My
 https://livestream2.zazerconer.workers.dev/c/zayanmy.m3u8
 
+35's TV
+https://livestream2.zazerconer.workers.dev/c/35stv.m3u8
+
 HITZ
 https://livestream2.zazerconer.workers.dev/c/hitzdotmy.m3u8
 
