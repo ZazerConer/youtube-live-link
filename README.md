@@ -40,7 +40,7 @@ https://livestream2.zazerconer.workers.dev/c/suriatv.m3u8
 Hot TV
 https://livestream2.zazerconer.workers.dev/c/hotfm976.m3u8
 
-Buletin TV
+KOOL 101
 https://livestream2.zazerconer.workers.dev/c/buletinfm.m3u8
 
 Gegar
@@ -257,7 +257,7 @@ https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 
 <br>
 
-**URL difference:** `/live/` 
+**URL difference:** `/live/`
 
 - **Live** `https://www.youtube.com/live/video-id`
 
@@ -314,27 +314,40 @@ If it doesn't work please test and use any of the **M3U8 links** shown above.
 <br>
 <br>
 
-**Channel ID:** `/channel/`
+**Channel ID:** `/channel/` » **_[channel-url-id](#channel-url-id-based)_**
+
 ```link
 https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
 ```
 
-**Custom Name:** `/c/`
+<br>
+
+**Custom Name:** `/c/` » **_[custom-url](#custom-url)_**
+
 ```link
 https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
 ```
 
-**Username:** `/user/`
+<br>
+
+**Username:** `/user/` » **_[legacy-username-url](#legacy-username-url)_**
+
 ```link
 https://livestream3.zazerconer.workers.dev/user/username.m3u8
 ```
 
-**Video ID:** `/live/`
+<br>
+
+**Video ID:** `/live/` » **_[video-live-url](#get-youtube-url-of-live-video)_**
+
 ```link
 https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 ```
 
-**Handle Name:** `/@`
+<br>
+
+**Handle Name:** `/@` » **_[youtube-handle-url](#youtube-handle)_**
+
 ```link
 https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
 ```
