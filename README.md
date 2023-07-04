@@ -86,7 +86,7 @@ https://livestream3.zazerconer.workers.dev/user/988ziduodi.m3u8
 
 <br>
 
-_Play on IPTV player_ :tv:
+- **_Play on_ IPTV _Player_** :tv:
 
 `Copy URL:`
 
@@ -314,7 +314,7 @@ If it doesn't work please test and use any of the **M3U8 links** shown above.
 <br>
 <br>
 
-**Channel ID:** `/channel/` » **_[channel-url-id](#channel-url-id-based)_**
+**Channel ID:** `/channel/` » **_[channel-url-id](https://github.com/ZazerConer/liveYTmalaysia/tree/main#channel-url-id-based)_**
 
 ```link
 https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
@@ -322,7 +322,7 @@ https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
 
 <br>
 
-**Custom Name:** `/c/` » **_[custom-url](#custom-url)_**
+**Custom Name:** `/c/` » **_[custom-url](https://github.com/ZazerConer/liveYTmalaysia/tree/main#custom-url)_**
 
 ```link
 https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
@@ -330,7 +330,7 @@ https://livestream2.zazerconer.workers.dev/c/customURLname.m3u8
 
 <br>
 
-**Username:** `/user/` » **_[legacy-username-url](#legacy-username-url)_**
+**Username:** `/user/` » **_[legacy-username-url](https://github.com/ZazerConer/liveYTmalaysia/tree/main#legacy-username-url)_**
 
 ```link
 https://livestream3.zazerconer.workers.dev/user/username.m3u8
@@ -338,7 +338,7 @@ https://livestream3.zazerconer.workers.dev/user/username.m3u8
 
 <br>
 
-**Video ID:** `/live/` » **_[video-live-url](#get-youtube-url-of-live-video)_**
+**Video ID:** `/live/` » **_[video-live-url](https://github.com/ZazerConer/liveYTmalaysia/tree/main#get-youtube-url-of-live-video)_**
 
 ```link
 https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
@@ -346,7 +346,7 @@ https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 
 <br>
 
-**Handle Name:** `/@` » **_[youtube-handle-url](#youtube-handle)_**
+**Handle Name:** `/@` » **_[youtube-handle-url](https://github.com/ZazerConer/liveYTmalaysia/tree/main#youtube-handle)_**
 
 ```link
 https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
