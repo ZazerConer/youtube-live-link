@@ -1,130 +1,79 @@
 <a name="top"></a>
 
-<a href="https://zazerconer.github.io/liveYTmalaysia"><img align="center" src="https://i.imgur.com/Ezgej1r.png"></a>
-Click the logo
-
-<br><br>
-
 <a href="https://www.youtube.com"><img align="right" src="https://i.imgur.com/PsDtnzZ.png" width="50px" height="35px"></a>
-<h1 align="center">YouTube URL with M3U8 link</h1>
-
-<div align="right"><strong>Live YT Malaysia M3U8</strong></div>
+<h1 align="center">YouTube Live with M3U8 link</h1>
+<div align="right"><strong>YouTube</strong></div>
 
 <br>
 
-### List of M3U8 links
+### Live YT Malaysia - M3U8 links
 
 `News`
 
 ```text
-Astro AWANI
+Astro AWANI:
 https://livestream2.zazerconer.workers.dev/c/astroawani.m3u8
 
-Berita RTM
+Berita RTM:
 https://livestream2.zazerconer.workers.dev/c/beritartmbes.m3u8
 
-BERNAMA TV
-https://livestream4.zazerconer.workers.dev/live/34pdxUincPw.m3u8
+BERNAMA TV:
+https://livestream.zazerconer.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 ```
 
 `Radio`
 
 ```text
-ERA
-https://livestream2.zazerconer.workers.dev/c/eradotje.m3u8
-
-SINAR
-https://livestream2.zazerconer.workers.dev/c/sinar_my.m3u8
-
-SuriaTV
-https://livestream2.zazerconer.workers.dev/c/suriatv.m3u8
-
-Hot TV
+Hot TV:
 https://livestream2.zazerconer.workers.dev/c/hotfm976.m3u8
 
-KOOL 101
+KOOL 101:
 https://livestream2.zazerconer.workers.dev/c/buletinfm.m3u8
 
-Gegar
-https://livestream2.zazerconer.workers.dev/c/gegarmy.m3u8
-
-Molek TV
+Molek TV:
 https://livestream2.zazerconer.workers.dev/c/molektv.m3u8
 
-Zayan My
-https://livestream2.zazerconer.workers.dev/c/zayanmy.m3u8
-
-35's TV
-https://livestream2.zazerconer.workers.dev/c/35stv.m3u8
-
-HITZ
-https://livestream2.zazerconer.workers.dev/c/hitzdotmy.m3u8
-
-Fly TV
-https://livestream2.zazerconer.workers.dev/c/flytv958.m3u8
-
-MIX
-https://livestream2.zazerconer.workers.dev/c/mix_my.m3u8
-
-LITE
-https://livestream2.zazerconer.workers.dev/c/lite-malaysia.m3u8
-
-8FM881
+Eight FM:
 https://livestream2.zazerconer.workers.dev/c/8fm881.m3u8
-
-MY好玩
-https://livestream2.zazerconer.workers.dev/c/my-malaysia.m3u8
-
-MELODY
-https://livestream2.zazerconer.workers.dev/c/melody-malaysia.m3u8
-
-988
-https://livestream3.zazerconer.workers.dev/user/988ziduodi.m3u8
 ```
 
+`YT channel is not live`
+
+<details><summary>Open</summary>
+
 <br>
 
-### M3U Playlist
+```text
+ERA: off
 
-<br>
+SINAR: off
 
-- **_Play on_ IPTV _Player_** :tv:
+SuriaTV: off
 
-`Copy URL:`
+Gegar: off
 
-```url
-https://zazerconer.github.io/liveYTmalaysia/playlist/iptv/index.m3u
+Zayan My: off
+
+HITZ: off
+
+Fly TV: off
+
+MIX: off
+
+LITE: off
+
+MY: off
+
+MELODY: off
+
+988: off
 ```
-
-<br>
-
-### Download IPTV Player
-
-<br>
-
-**IPTV Smarters Pro**
-
-Supports on: Android - Smart TV - iOS - MAC - Windows
-
-<br>
-
-<a href="https://www.iptvsmarters.com/smarters.apk" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/X5hWeEU.png" width="280px" height="65px"></a>
-
-<a href="https://apps.apple.com/in/app/smarters-player-lite/id1628995509" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/GKlHXBG.png" width="280px" height="65px"></a>
-
-<a href="https://www.iptvsmarters.com/download/?download=mac" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/omYFTEZ.png" width="280px" height="65px"></a>
-
-<a href="https://www.iptvsmarters.com/download/?download=windows_app" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/XRGsfQ5.png" width="280px" height="65px"></a>
-
-<br>
-
-For **Smart TV** _(Samsung/LG)_ and **Firestick**, you can go to the Website.
-- **[IPTV SMARTERS PRO](https://www.iptvsmarters.com/)**
+</details>
 
 <br>
 <hr>
 
-### Add YouTube live URL with M3U8 link
+## Add YouTube live URL with M3U8 link
 
 <br>
 
@@ -361,7 +310,7 @@ https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
 
 <br><br><br>
 
-**Note:** This **M3U8 Link** only works if the **YouTube** channel is **LIVE**. 
+**Important:** This **M3U8 Link** only works if the **YouTube** channel is **LIVE**. 
 
 <br><br><br><br>
 
