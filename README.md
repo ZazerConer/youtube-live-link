@@ -308,11 +308,21 @@ https://livestream4.zazerconer.workers.dev/live/video-id.m3u8
 https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
 ```
 
+<br><br>
+
+**Important:** This **M3U8 Link** only works if the **YouTube** channel is **LIVE**.
+
+<br><br>
+<hr>
+
+**Bad news:** My **CF Workers** request limit exceeds the limit almost every day it runs, so I suggest you build your own **workers** to increase the user limit.
+
+<br>
+
+- **[See Here](https://github.com/ZazerConer/YouTube-to-M3U8/tree/main/youtube-live-url)**
+
+<hr>
 <br><br><br>
-
-**Important:** This **M3U8 Link** only works if the **YouTube** channel is **LIVE**. 
-
-<br><br><br><br>
 
 - **[Back to top ⇑](#top)**
 <hr>
