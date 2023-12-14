@@ -4,76 +4,9 @@
 <h1 align="center">YouTube Live with M3U8 link</h1>
 <div align="right"><strong>YouTube</strong></div>
 
-<br>
-
-### Live YT Malaysia - M3U8 links
-
-`News`
-
-```text
-Astro AWANI:
-https://livestream2.zazerconer.workers.dev/c/astroawani.m3u8
-
-Berita RTM:
-https://livestream2.zazerconer.workers.dev/c/beritartmbes.m3u8
-
-BERNAMA TV:
-https://livestream.zazerconer.workers.dev/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-```
-
-`Radio`
-
-```text
-Hot TV:
-https://livestream2.zazerconer.workers.dev/c/hotfm976.m3u8
-
-KOOL 101:
-https://livestream2.zazerconer.workers.dev/c/buletinfm.m3u8
-
-Molek TV:
-https://livestream2.zazerconer.workers.dev/c/molektv.m3u8
-
-Eight FM:
-https://livestream2.zazerconer.workers.dev/c/8fm881.m3u8
-```
-
-`YT channel is not live`
-
-<details><summary>Open</summary>
-
-<br>
-
-```text
-ERA: off
-
-SINAR: off
-
-SuriaTV: off
-
-Gegar: off
-
-Zayan My: off
-
-HITZ: off
-
-Fly TV: off
-
-MIX: off
-
-LITE: off
-
-MY: off
-
-MELODY: off
-
-988: off
-```
-</details>
-
-<br>
 <hr>
 
-## Add YouTube live URL with M3U8 link
+## Add YT live URL with M3U8 Link
 
 <br>
 
@@ -105,10 +38,59 @@ https://livestream.zazerconer.workers.dev/channel/channel-id.m3u8
 ```
 
 <br>
+<br>
 
-#### How to get YouTube channel ID?
+<details><summary><strong>YouTube Channel ID Finder</strong></summary>
 
-You can get the channel ID **[HERE](https://commentpicker.com/youtube-channel-id.php)**
+<br>
+
+- [seostudio.tools/youtube-channel-id](https://seostudio.tools/youtube-channel-id)
+
+- [barrazacarlos.com/free-seo-tools/youtube-channel-id](https://barrazacarlos.com/free-seo-tools/youtube-channel-id)
+
+- [web-seotools.com/youtube-channel-id](https://web-seotools.com/youtube-channel-id)
+
+- [wholeseotools.com/youtube-channel-id](https://wholeseotools.com/youtube-channel-id)
+
+- [sarojmeher.com/smartweb/youtube-channel-id](https://www.sarojmeher.com/smartweb/youtube-channel-id)
+
+- [seotoolstamil.com/youtube-channel-id](https://seotoolstamil.com/youtube-channel-id)
+
+- [webtoolsmate.com/youtube-channel-id](https://webtoolsmate.com/youtube-channel-id)
+
+- [vionlinetools.com/youtube-channel-id](https://vionlinetools.com/youtube-channel-id)
+
+- [onhelpinghand.org/youtube-channel-id](https://www.onhelpinghand.org/youtube-channel-id)
+
+- [bonoseotools.com/youtube-channel-id](https://bonoseotools.com/youtube-channel-id)
+
+- [zoneseotools.com/youtube-channel-id](https://zoneseotools.com/youtube-channel-id)
+
+- [naijaseotools.com/youtube-channel-id](https://naijaseotools.com/youtube-channel-id)
+
+- [seotool247.com/youtube-channel-id](https://seotool247.com/youtube-channel-id)
+
+- [mrephrase.com/en/youtube-channel-id](https://mrephrase.com/en/youtube-channel-id)
+
+- [oceanoftool.com/youtube-channel-id](https://oceanoftool.com/youtube-channel-id)
+
+- [mintseotools.com/youtube-channel-id](https://mintseotools.com/youtube-channel-id)
+
+- [toolsa2z.com/youtube-channel-id/](https://toolsa2z.com/youtube-channel-id/)
+
+- [impif.com/youtube-channel-id](https://impif.com/youtube-channel-id)
+
+- [ytbos.com/find-youtube-channel-id](https://ytbos.com/find-youtube-channel-id.php)
+
+- [beehosting.pro/seotools/youtube-channel-id](https://beehosting.pro/seotools/youtube-channel-id)
+
+- [seostudiotools.com/youtube-channel-id](https://seostudiotools.com/youtube-channel-id)
+
+- [simplifiedwebtools.com/youtube-channel-id](https://simplifiedwebtools.com/youtube-channel-id)
+
+- [codeofaninja.com/tools/find-youtube-channel-id](https://www.codeofaninja.com/tools/find-youtube-channel-id)
+
+</details>
 
 <br>
 <hr>
@@ -325,14 +307,10 @@ https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
 <br><br><br>
 
 - **[Back to top ⇑](#top)**
+
 <hr>
 
-## Watch YouTube Live +
-
-<br>
-
-<details>
-<summary><b>SHOW</b></summary>
+## Watch YouTube
 
 <br>
 
@@ -340,291 +318,172 @@ https://ytlive.zazerconer.workers.dev/@handle-name.m3u8
 
 <br>
 
-Click on the **Link** to play the video directly **or** _copy/paste_ the **Link** and play it in a browser player.
+### NEWS
 
 <br>
 
-- **News**
+`beIN Sports Türkiye`
+
+https://ytlive.zazerconer.workers.dev/@beinsportsturkiye.m3u8
+
+`Haber Global`
+
+https://ytlive.zazerconer.workers.dev/@haberglobal.m3u8
 
 `NBC News`
 
-https://livestream2.zazerconer.workers.dev/c/nbcnews.m3u8
+https://ytlive.zazerconer.workers.dev/@nbcnews.m3u8
 
 `ABC News`
 
-https://livestream2.zazerconer.workers.dev/c/abcnews.m3u8
+https://ytlive.zazerconer.workers.dev/@abcnews.m3u8
 
-`DW News`
+`GBNews`
 
-https://ytlive.zazerconer.workers.dev/@dwnews.m3u8
-
-`CNA`
-
-https://livestream3.zazerconer.workers.dev/user/channelnewsasia.m3u8
+https://ytlive.zazerconer.workers.dev/@gbnewsonline.m3u8
 
 `Al Jazeera English`
 
-https://livestream2.zazerconer.workers.dev/c/aljazeeraenglish.m3u8
+https://ytlive.zazerconer.workers.dev/@aljazeeraenglish.m3u8
+
+`Sky News Arabia`
+
+https://ytlive.zazerconer.workers.dev/@skynewsarabia.m3u8
+
+`CNA`
+	
+https://ytlive.zazerconer.workers.dev/@channelnewsasia.m3u8
+
+`Guardian News`
+
+https://ytlive.zazerconer.workers.dev/@guardiannews.m3u8
 
 `TRT World`
 
 https://ytlive.zazerconer.workers.dev/@trtworld.m3u8
 
+`CGTN Europe`
+
+https://ytlive.zazerconer.workers.dev/@cgtneurope.m3u8
+
 `LiveNow Fox`
 
-https://livestream2.zazerconer.workers.dev/c/livenowfox.m3u8
-
-`WION EnglishNews`
-
-https://livestream2.zazerconer.workers.dev/c/wion.m3u8
-
-`tvOneNews`
-
-https://livestream2.zazerconer.workers.dev/c/tvonenews.m3u8
-
-`KOMPASTV`
-
-https://livestream2.zazerconer.workers.dev/c/kompastv.m3u8
-
-`METROTV`
-
-https://livestream2.zazerconer.workers.dev/c/metrotvnewsofficial.m3u8
-
-`CNN-News18`
-
-https://ytlive.zazerconer.workers.dev/@cnnnews18.m3u8
-
-`FRANCE 24 English`
-
-https://ytlive.zazerconer.workers.dev/@france24_en.m3u8
+https://ytlive.zazerconer.workers.dev/@livenowfox.m3u8
 
 `NHK WORLD-JAPAN News`
 
-https://livestream2.zazerconer.workers.dev/c/nhkworldjapan.m3u8
+https://ytlive.zazerconer.workers.dev/@nhkworldjapan.m3u8
 
-`CGTN`
+`DW News`
 
-https://livestream2.zazerconer.workers.dev/c/cgtneurope.m3u8
+https://ytlive.zazerconer.workers.dev/@dwnews.m3u8
 
-`Arirang`
+`WION EnglishNews`
 
-https://livestream2.zazerconer.workers.dev/c/arirangcokrtv.m3u8
+https://ytlive.zazerconer.workers.dev/@wion.m3u8
+
+`CNN News 18`
+
+https://ytlive.zazerconer.workers.dev/@cnnnews18.m3u8
+
+`France 24 English`
+
+https://ytlive.zazerconer.workers.dev/@france24_en.m3u8
+
+`Berita RTM`
+
+https://ytlive.zazerconer.workers.dev/@beritartmbes.m3u8
+
+`Astro Awani`
+
+https://ytlive.zazerconer.workers.dev/@astroawani.m3u8
+
+`tvOneNews`
+
+https://ytlive.zazerconer.workers.dev/@tvonenews.m3u8
+
+`KOMPASTV`
+
+https://ytlive.zazerconer.workers.dev/@kompastv.m3u8
+
+`METROTV`
+
+https://ytlive.zazerconer.workers.dev/@metrotvnews.m3u8
+
+`Liputan6`
+
+https://ytlive.zazerconer.workers.dev/@liputan6_news.m3u8
+
+`Bloomberg Television`
+
+https://ytlive.zazerconer.workers.dev/@markets.m3u8
+
+`United Nations`
+
+https://ytlive.zazerconer.workers.dev/@unitednations.m3u8
+
+`africanews`
+
+https://ytlive.zazerconer.workers.dev/@africanews.m3u8
+
+`FOX Weather`
+
+https://ytlive.zazerconer.workers.dev/@foxweather.m3u8
 
 <br>
 
-- **General**
+### WORLD TV
 
-`National Geographic`
+<br>
 
-https://livestream2.zazerconer.workers.dev/c/natgeo.m3u8
+`Factnomenal`
 
-`Nat Geo Wild`
+https://ytlive.zazerconer.workers.dev/@factnomenal.m3u8
 
-https://livestream3.zazerconer.workers.dev/user/natgeowild.m3u8
+`Nat Geo WILD`
+
+https://ytlive.zazerconer.workers.dev/@natgeowild.m3u8
 
 `Relaxing Nature In 4K`
 
 https://ytlive.zazerconer.workers.dev/@animals-world.m3u8
 
+`Relaxation Ambient Music`
+
+https://ytlive.zazerconer.workers.dev/@relaxationmeditationmusic.m3u8
+
 `JAPAN 4K`
 
-https://livestream3.zazerconer.workers.dev/user/keikaikeikaikeikai.m3u8
+https://ytlive.zazerconer.workers.dev/@japan_4k.m3u8
 
-`Our Planet 4K`
+`I Love You Venice`
 
-https://ytlive.zazerconer.workers.dev/@ourplanet4k.m3u8
+https://ytlive.zazerconer.workers.dev/@iloveyouvenice.m3u8
 
-`Relaxation Film'
+`Watchers Club`
 
-https://ytlive.zazerconer.workers.dev/@relaxationfilm.m3u8
+https://ytlive.zazerconer.workers.dev/@watchersclub.m3u8
 
-`WorldCam`
+`EarthTV`
 
-https://livestream2.zazerconer.workers.dev/c/worldcamtv.m3u8
+https://ytlive.zazerconer.workers.dev/@earthtv.m3u8
 
-`Nasa`
+`Boston and Maine Live`
 
-https://livestream2.zazerconer.workers.dev/c/nasa.m3u8
+https://ytlive.zazerconer.workers.dev/@bostonandmainelive.m3u8
+
+`Armchair Traveler`
+
+https://ytlive.zazerconer.workers.dev/@armchairtravel.m3u8
+
+`NASA`
+
+https://ytlive.zazerconer.workers.dev/@nasa.m3u8
 
 `Space Videos`
 
-https://livestream4.zazerconer.workers.dev/live/3XWfKNtbsmU.m3u8
-
-`FactNomenal`
-
-https://livestream2.zazerconer.workers.dev/c/factnomenal.m3u8
-
-<br>
-
-- **Kids**
-
-`SMToon Asia (Larva)`
-
-https://ytlive.zazerconer.workers.dev/@smtoonasia.m3u8
-
-`Booba`
-
-https://livestream.zazerconer.workers.dev/channel/UCKS1HX4moHCcDBZnM9k4giw.m3u8
-
-`SpongeBob SquarePants (Nickelodeon Bahasa)`
-
-https://livestream4.zazerconer.workers.dev/live/PuPKV4epqKc.m3u8
-
-`Disney Junior (Minnies Bow Toons)` 
-
-https://livestream4.zazerconer.workers.dev/live/OjlaUkllTss.m3u8
-
-`Paw Patrol Official`
-
-https://ytlive.zazerconer.workers.dev/@pawpatrolofficial.m3u8
-
-`BabyBus (Kids Songs and Cartoons)`
-
-https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
-
-`Cocomelon`
-
-https://livestream2.zazerconer.workers.dev/c/cocomelon.m3u8
-
-`Oddbods`
-
-https://livestream2.zazerconer.workers.dev/c/oddbods.m3u8
-
-`Super Toons TV (Om Nom Stories)`
-
-https://ytlive.zazerconer.workers.dev/@supertoonstv.m3u8
-
-`Super Toons TV (Oko Lele)`
-
-https://livestream.zazerconer.workers.dev/channel/UClJ1NXIsdoVyfxWg3aLYrsA.m3u8
-
-`Peppa Pig`
-
-https://ytlive.zazerconer.workers.dev/@peppapigofficial.m3u8
-https://livestream.zazerconer.workers.dev/channel/UCAOtE1V7Ots4DjM8JLlrYgg.m3u8
-
-<br>
-
-- **Music/Radio**
-
-`THE K-POP`
-
-https://ytlive.zazerconer.workers.dev/@thekpop.m3u8
-
-`THE K-POP 2`
-
-https://ytlive.zazerconer.workers.dev/@thekpop2.m3u8
-
-`KBS WORLD TV`
-
-https://ytlive.zazerconer.workers.dev/@kbsworldtv.m3u8
-
-`Arirang Radio K-Pop`
-
-https://ytlive.zazerconer.workers.dev/@music180arirang.m3u8
-
-`Radio Hits Music`
-
-https://ytlive.zazerconer.workers.dev/@livemusicradio.m3u8
-
-`The Good Life Radio`
-
-https://ytlive.zazerconer.workers.dev/@thegoodliferadio.m3u8
-
-`NAGASWARA RADIOTEMEN`
-
-https://ytlive.zazerconer.workers.dev/@nagaswarafmbgr.m3u8
-
-`NAGASWARA RADIOTEMEN (Pop Indonesia Terbaik)`
-
-https://livestream4.zazerconer.workers.dev/live/Is03gZsBeq0.m3u8
-
-`NAGASWARA RADIOTEMEN (Top Dangdut Dancemix Koplo)`
-
-https://livestream4.zazerconer.workers.dev/live/Gvfr_OoTp1E.m3u8
-
-`Aquarius Musikindo`
-
-https://ytlive.zazerconer.workers.dev/@aquariusmusikindo.m3u8
-
-`UPROXX Music (Rap Live Radio)`
-
-https://ytlive.zazerconer.workers.dev/@uproxx.m3u8
-
-`Music Brokers`
-
-https://livestream2.zazerconer.workers.dev/c/musicbrokers.m3u8
-
-`Music Hits`
-
-https://ytlive.zazerconer.workers.dev/@musichits6891.m3u8
-
-`Max Oazo`
-
-https://ytlive.zazerconer.workers.dev/@maxoazomusic.m3u8
-
-`Max Oazo (Best Workout Music 2023)`
-
-https://livestream4.zazerconer.workers.dev/live/duAz4JZ-2uc.m3u8
-
-`Max Oazo (Workout Music 2023)`
-
-https://livestream4.zazerconer.workers.dev/live/As96HhiUwXo.m3u8
-
-`Above & Beyond (Anjunabeasts Radio)`
-
-https://ytlive.zazerconer.workers.dev/@aboveandbeyond.m3u8
-
-`Old World Radio 2 (playlist: 5)`
-
-https://ytlive.zazerconer.workers.dev/@oldworldradio2.m3u8
-
-<details>
-<summary><b>See More</b></summary>
-
-<br>
-
-`Synthwave Retrowave Radio (SYNTHSTREAM FM)`
-
-https://livestream4.zazerconer.workers.dev/live/cEmcTB6YDQ4.m3u8
-
-`Vaporwave Radio (AESTHETIC FM)`
-
-https://livestream4.zazerconer.workers.dev/live/gpaBVx19iyQ.m3u8
-
-`Elder Scrolls Radio (Fantasy Music)`
-
-https://livestream4.zazerconer.workers.dev/live/hCNNaX3dIk8.m3u8
-
-`Rockabilly Radio`
-
-https://livestream4.zazerconer.workers.dev/live/vBccG8ROcE8.m3u8
-
-`Fallout Radio`
-
-https://livestream4.zazerconer.workers.dev/live/Ya3WXzEBL1E.m3u8
-
-<br>
-</details>
-
-<br>
-
-`Jazz Loungebar Radio`
-
-https://livestream2.zazerconer.workers.dev/c/jazzloungebar.m3u8
-
-`Maretimo Lounge Radio`
-
-https://livestream2.zazerconer.workers.dev/c/djmaretimo.m3u8
-
-`Vocal Trance Radio`
-
-https://ytlive.zazerconer.workers.dev/@raznitzanmusic.m3u8
-
-<br>
-<hr>
-</details>
+https://ytlive.zazerconer.workers.dev/@spacevideoshd.m3u8
 
 <br><br><br><br><br>
 
-<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> <strong>© 2023 Live YouTube Malaysia @ZazerConer's</strong></div>
+<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> <strong>© 2023 YouTube Channel Live @ZazerConer's</strong></div>
