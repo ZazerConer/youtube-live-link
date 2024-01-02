@@ -486,4 +486,4 @@ https://ytlive.zazerconer.workers.dev/@spacevideoshd.m3u8
 
 <br><br><br><br><br>
 
-<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> <strong>© 2023 YouTube Channel Live @ZazerConer's</strong></div>
+<div align="center"><img src="https://i.imgur.com/PsDtnzZ.png" width="30px" height="21px"> <strong>© 2024 YouTube Channel Live @ZazerConer's</strong></div>
